@@ -1,0 +1,22 @@
+{
+  "name": "broken-files",
+  "version": "0.1.0",
+  "description": "This repo contains several broken files for testing purposes",
+  "main": "readme.md",
+  "scripts": {
+    "test": "break-this-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferambot/broken.git"
+  },
+  "keywords": [
+    "broken"
+  ],
+  "author": "Adrian Sieber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferambot/broken/unavailable-website"
+  },
+  "homepage": "https://github.com/ferambot/broken"
+}
