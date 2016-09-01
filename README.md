@@ -17,7 +17,7 @@ along with him.
 
 ## Wrong usage of a/an
 
-A elephant is an large mammal.
-Buy an house in a hour.
-A unknown monster killed an unicorn.
+A elephant is a large mammal.
+Buy a house in a hour.
+A unknown monster killed a unicorn.
 It's a honor.
