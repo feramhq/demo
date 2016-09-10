@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Target Blank Vulnerability</title>
+  </head>
+  <body>
+    <h1>Target Blank Vulnerability</h1>
+
+    <p>If a link has the attribute <code>target=_blank</code>,
+      but no attribute <code>rel="noopener noreferrer"</code>,
+      the link target can manipulate the opener website.</p>
+
+    <p><strong>This is a serious security vulnerability.</strong></p>
+
+    <p>More infos:<p>
+    <ul>
+      <li>
+        <a href="https://mic.com/articles/153114"
+          target="_blank"
+          rel="noopener noreferrer">
+          mic.com - <code>target=_blank</code> hack vulnerability
+        </a>
+      </li>
+      <li>
+        <a href="https://dev.to/ben/the-targetblank-vulnerability-by-example"
+          target="_blank"
+          rel="noopener noreferrer">
+          dev.to - <code>target=_blank</code> vulnerability by example
+        </a>
+      </li>
+      <li>
+        <a href="https://grahamcluley.com/2016/09/phishing-data-theft-await-users-target_blank-vulnerability"
+          target="_blank"
+          rel="noopener noreferrer">
+          grahamcluley.com - phishing data theft await users <code>target=_blank</code> vulnerability
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://mathiasbynens.github.io/rel-noopener"
+          target="_blank"
+          rel="noopener noreferrer">
+          mathiasbynens.github.io - rel-noopener
+        </a>
+      </li>
+    </ul>
+
+    <p>The dangerous link:
+      <a href="https://mathiasbynens.be/demo/opener" target="_blank">
+        mathiasbynens.be
+      </a>
+    </p>
+  </body>
+</html>
