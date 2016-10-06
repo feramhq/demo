@@ -4,17 +4,12 @@
   "description": "This repo contains several broken files for testing purposes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ferambot/broken"
+    "url": "git+https://github.com/ferambot/broken.git"
   },
   "author": "Adrian Sieber",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ferambot/broken/unavailable-website"
   },
-  "homepage": "https://github.com/ferambot/broken",
-  "main": "index.js",
-  "keywords": [
-    "broken",
-    "files"
-  ]
+  "homepage": "https://github.com/ferambot/broken"
 }
