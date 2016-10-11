@@ -7,6 +7,7 @@ This repo contains several broken files for testing purposes.
 
 It's importnat that this readme - including a
 exerpt from 1984 - has manny typos.
+The same typo in an adjacent line: importnat
 
 It was a brigth cold day in April, and the clcoks were striknig thirten.
 Winston Smith, his chin nuzled in to his braest in a efort to escape the
