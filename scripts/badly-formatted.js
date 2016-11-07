@@ -4,7 +4,7 @@ var bar = 'bar'
 let status = '';
 const weirdObject =
  {
-  foo:     'foo'
+  foo:     'foo',
   bar: "bar",
     baz: [  1,  2, 3]
  }
