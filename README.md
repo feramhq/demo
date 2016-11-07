@@ -5,9 +5,9 @@ This repo contains several broken files for testing purposes.
 
 ## Typos
 
-It's importnat that this readme - including a
+It's important that this readme - including a
 excerpt from 1984 - has manny typos.
-The same typo in an adjacent line: importnat
+The same typo in an adjacent line: important
 
 It was a bright cold day in April, and the clcoks were striknig thirten.
 Winston Smith, his chin nuzled in to his braest in an efort to escape the
