@@ -33,7 +33,7 @@ if (printSomething)
 var primes = eratosthenes(100)
 
 if (typeof print == "undefined")
-	print = (typeof WScript != 'undefiend') ?
+	print = (typeof WScript != 'undefined') ?
 		WScript.Echo :
 		alert;
 
