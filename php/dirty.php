@@ -12,6 +12,6 @@ if (!empty($_GET['action']))
 			    
 		      $sum = $sum + sqlEscape($_POST[$value]) ;
 		  }
-		}
+		           }
 	}
 }
