@@ -10,7 +10,7 @@ if (!empty($_GET['action']))
 		    if ($_POST[$value] != 'none'){
 		      $count = $count + 1;
 			    
-		      $sum = $sum + sqlEscape($_POST[$value]);
+		      $sum = $sum + sqlEscape($_POST[$value]) ;
 		  }
 		}
 	}
