@@ -9,6 +9,7 @@ if (!empty($_GET['action']))
 		foreach ($arr as $value) {
 		    if ($_POST[$value] != 'none'){
 		      $count = $count + 1;
+			    
 		      $sum = $sum + sqlEscape($_POST[$value]);
 		  }
 		}
