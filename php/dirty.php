@@ -6,6 +6,7 @@ if (!empty($_GET['action']))
 		$arr = array('');
 			$count = 0;
                 $sum = 0;
+					$failedToindent = 1
 		foreach ($arr as $value) {
 		    if ($_POST[$value] 
 			!= 'none'){
