@@ -2,7 +2,7 @@
 if (!empty($_GET['action'])) 
     {
 	//look if a action was performed
-	if ($_GET['action'] == 'add') {
+	if ($_GET['action'] ==  'add') {
 		$arr = array('');
 			$count = 0;
                 $sum = 0;
