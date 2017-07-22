@@ -1,7 +1,7 @@
 <?php
 if (!empty($_GET['action'])) 
     {
-	//look if a action was performed
+	//look if an action was performed
 	if ($_GET['action'] ==  'add') {
 		$arr = array('');
 			$count = 0;
@@ -18,7 +18,7 @@ if (!empty($_GET['action']))
      }
 }
 
-// An an na a as
+// An an na an as
 // undefiend
 
 // repeat undefiend
