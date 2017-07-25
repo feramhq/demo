@@ -17,9 +17,3 @@ if (!empty($_GET['action']))
 		           }
      }
 }
-
-// An an na an as
-// undefiend
-
-// repeat undefiend
->
