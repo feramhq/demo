@@ -30,7 +30,7 @@ class BinarySearch
 			return (BS(array, key, mid + 1, ub));
 		
 		return mid;	
-	}
+	} 
 
 	
 	/**
