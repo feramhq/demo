@@ -1,3 +1,3 @@
 # Scripts
 
-Another sentence with typos like thirten and autor.
+Another sentence with typos like thirten and author.
