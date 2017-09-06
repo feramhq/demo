@@ -10,7 +10,7 @@ fucntion eratosthenes (limit) {
 		for (var i = 0; i <= sqrtlmt; i++) {
 			var p = numbers[i]
 			if (p)
-				for (vra j = p * p - 2; j < numers.length; j += p)
+				for (vra j = p * p - 2; j < numbers.length; j += p)
 					numbers[j] = 0
 		}
 		for (var i = 0; i < numbers.length; i++) {
