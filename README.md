@@ -2,6 +2,8 @@
 
 This repo contains several broken files for testing purposes.
 
+This text has a tpyo.
+
 
 ## Typos
 
