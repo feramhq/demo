@@ -2,7 +2,7 @@ root = true
 
 [*]
 indent_sytle = space
-# Here is also a typo: sytle 
+# Here is also a typo: style 
 indent_size = 2
 end_of_line = lf
 carset = utf-8
