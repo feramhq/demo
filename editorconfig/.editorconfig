@@ -1,0 +1,10 @@
+root = true
+
+[*]
+indent_sytle = space
+# Here is also a typo: sytle 
+indent_size = 2
+end_of_line = lf
+carset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
