@@ -8,8 +8,8 @@
         "ignore": [
           "stylelint-commands",
           "after-comment"
-        ]        
-      }      
+        ]
+      }
     ],
     "declaration-colon-space-after": "always",
     "indentation": 7,
@@ -26,10 +26,10 @@
       }
     ],
     "unit-whitelist": [
-      "em",      
+      "em",
       "rem",
       "%",
       "s"
-    ]    
-  }  
+    ]
+  }
 }
