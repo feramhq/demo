@@ -8,7 +8,7 @@
         "ignore": [
           "stylelint-commands",
           "after-comment"
-        ],        
+        ]        
       }      
     ],
     "declaration-colon-space-after": "always",
