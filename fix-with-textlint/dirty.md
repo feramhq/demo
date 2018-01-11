@@ -13,8 +13,6 @@ The highest number, of commas, in a sentence, should, be, four.
 
 Use the wrong terminology for Node, Front End, website, etc.
 
-Use wrong 'apostrophes'.
-
 Incorrect spelling of deja vu.
 
 Explain acronyms before using them (HITA)
