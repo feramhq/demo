@@ -1,4 +1,4 @@
-# Dirty Markdown
+# Markdown Style Guide
 
 - Period in list.
 - [ ] ToDo List
