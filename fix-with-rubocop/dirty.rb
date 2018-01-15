@@ -1,8 +1,10 @@
-def dirty_method
-   puts "incorrect number of spaces (3)"
+def error_message
+   puts "An error occured."
 end
 
-#emptying array can be improved by using until
-test_array = [ 'T', 'E', 'S', 'T' ]
-print(test_array.pop, " ") while test_array.size > 0
-print "\n"
+def reset_array(array)
+  print(array.pop, " ") while array.size > 0
+  print "\n"
+end
+
+reset_array([ 'T', 'E', 'S', 'T' ])
