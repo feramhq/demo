@@ -36,11 +36,11 @@ public class Fibonacci {
 
         int f;
 
-        if (n <= 2){
+        if (n<=2) {
             f = 1;
         }
         else {
-            f = fibMemo(n-1) + fibMemo(n-2);
+            f = fibMemo(n - 1) + fibMemo(n - 2);
             map.put(n,f);
         }
 
@@ -58,15 +58,15 @@ public class Fibonacci {
 
         Map<Integer,Integer> fib = new HashMap<Integer,Integer>();
 
-        for (int i=1;i<n+1;i++) {
+        for (int i = 1;i<n + 1;i++) {
             int f = 1;
             if (i<=2) {
                 f = 1;
             }
             else {
-                f = fib.get(i-1) + fib.get(i-2);
+                f = fib.get(i - 1) + fib.get(i - 2);
             }
-            fib.put(i, f);
+            fib.put(i,f);
         }
 
         return fib.get(n);
