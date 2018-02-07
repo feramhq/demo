@@ -1,15 +1,14 @@
 body {
- background-color: darkgrey;
+  background-color: darkgrey;
   color: black;
-      font-size: 1.1em;
-    font-family: "Arial";
+  font-size: 1.1em;
+  font-family: "Arial";
+}
 
-}
 h1 {
-       color:
-    black;
+  color: black;
 }
-#intro
-{
-    font-size: 1.3em;
+
+#intro {
+  font-size: 1.3em;
 }
