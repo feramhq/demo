@@ -1,4 +1,4 @@
-# Broken Testxcz asdf asdfadf
+# Broken Testxcz asdf
 
 This repo contains several broken files for testing purposes.
 
