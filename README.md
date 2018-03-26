@@ -1,4 +1,4 @@
-# Broken Testcz
+# Broken Testc
 
 This repo contains several broken files for testing purposes.
 
