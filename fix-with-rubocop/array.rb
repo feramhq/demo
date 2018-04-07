@@ -1,10 +1,10 @@
 def error_message
-   puts "An error occured."
+  puts 'An error occured.'
 end
 
 def reset_array(array)
-  print(array.pop, " ") while array.size > 0
+  print(array.pop, ' ') until array.empty?
   print "\n"
 end
 
-reset_array([ 'T', 'E', 'S', 'T' ])
+reset_array(%w[T E S T])
