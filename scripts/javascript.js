@@ -1,4 +1,4 @@
-fucntion eratosthenes (limit) {
+function eratosthenes (limit) {
 	var primes = []
 
 	if (limit >= 2) {
