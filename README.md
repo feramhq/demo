@@ -7,7 +7,7 @@ asd
 ## Typos
 
 It's important that this readme - including a
-exerpt from 1984 - has manny typos.
+exerpt from 1984 - has many typos.
 The same typo in an adjacent line: important
 
 It was a bright cold day in April, and the clcoks were striknig thirten.
